@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+1. Smartphones 
+  - Samsung
+  - Huawei
+2. Cars
+  - BMW
+  - Lexus
+3. Bikes
+  - Ducati
+  - Benelli 
